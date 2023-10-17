@@ -101,6 +101,10 @@ repositories:
     type: git
     url: https://github.com/tier4/pacmod_interface.git
     version: main
+  vehicle/jw_interface:
+    type: git
+    url: https://github.com/tier4/jw_interface
+    version: tier4/universe
   # param
   param/autoware_individual_params:
     type: git
